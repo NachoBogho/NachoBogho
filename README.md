@@ -6,7 +6,7 @@
 
 
 
-**About Me!**
+**Sobre Mi!**
 
 - 👨🏽‍💻 Estudiante de Analista Programador Universitario en la UNLP
 - 🖥️ Recibido de la carrera de FullStack de CoderHouse
